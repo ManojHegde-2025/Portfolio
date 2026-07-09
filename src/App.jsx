@@ -66,7 +66,7 @@ export default function App() {
       <section className="min-h-screen flex flex-col justify-center relative px-6 pt-20">
         <div className="max-w-5xl mx-auto w-full">
           <div className="inline-block mb-4 px-3 py-1 border border-cyan-500/30 bg-cyan-500/10 rounded-full text-cyan-300 text-sm font-semibold tracking-wide">
-            B.Tech • 1st Year CSE @ NMAMIT
+            B.Tech • 2nd Year CSE @ NMAMIT
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold text-white tracking-tight mb-6 leading-tight">
           Turning ideas into <br></br> <span className="text-transparent bg-clip-text bg-linear-to-r from-cyan-400 to-blue-500">digital experiences </span> <br className="hidden md:block" />
