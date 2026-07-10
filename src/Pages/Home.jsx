@@ -109,7 +109,7 @@ export default function Home() {
             <a href="https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/" target="_blank" rel="noreferrer" className="bg-[#0077B5]/10 hover:bg-[#0077B5]/20 text-[#0077B5] font-medium py-3 px-6 rounded-lg transition-all flex items-center gap-2 border border-[#0077B5]/30">
               <LinkedinIcon size={18} /> LinkedIn
             </a>
-            <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank" rel="noreferrer" className="bg-[#E1306C]/10 hover:bg-[#E1306C]/20 text-[#E1306C] font-medium py-3 px-6 rounded-lg transition-all flex items-center gap-2 border border-[#E1306C]/30">
+            <a href="https://www.instagram.com/manoj_hegde__?igsh=Mmxpb2JybTJra3ln" target="_blank" rel="noreferrer" className="bg-[#E1306C]/10 hover:bg-[#E1306C]/20 text-[#E1306C] font-medium py-3 px-6 rounded-lg transition-all flex items-center gap-2 border border-[#E1306C]/30">
               <InstagramIcon size={18} /> Instagram
             </a>
           </div>
@@ -258,7 +258,7 @@ export default function Home() {
               company="Aeroclub"
               date="Present"
               description="Serving as the primary Video Editor and Poster Designer. Managing the digital media pipeline for the club, producing high-quality video content, and designing impactful posters to drive engagement and technical communications."
-              link="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/"
+              link="https://www.instagram.com/manoj_hegde__?igsh=Mmxpb2JybTJra3ln"
               icon={<Video size={16} className="fill-current" />}
             />
 
@@ -289,7 +289,7 @@ export default function Home() {
             <a href="https://www.linkedin.com/in/manoj-m-hegde-3a21a0373/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-[#0077B5] transition-colors">
               <LinkedinIcon size={24} />
             </a>
-            <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-[#E1306C] transition-colors">
+            <a href="https://www.instagram.com/manoj_hegde__?igsh=Mmxpb2JybTJra3ln" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-[#E1306C] transition-colors">
               <InstagramIcon size={24} />
             </a>
             {/* <a href="mailto:manojhegde128@gmail.com" className="text-slate-400 hover:text-cyan-400 transition-colors">
