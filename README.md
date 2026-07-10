@@ -66,20 +66,20 @@ This repository uses a production-safe Git Feature Branch workflow combined with
 To run this project locally on your machine:
 
 1. Clone the repository:
-- Bash
+  Bash
   git clone [https://github.com/ManojHegde-2025/portfolio.git](https://github.com/ManojHegde-2025/portfolio.git)
   cd portfolio
 
 2. Install dependencies:
-- Bash
+  Bash
   npm install
 
-3. Start the local development server:
-- Bash
+4. Start the local development server:
+  Bash
   npm run dev
 
 4.Build for production:
-- Bash
+  Bash
   npm run build
   
 ## 📬 Contact & Connect
